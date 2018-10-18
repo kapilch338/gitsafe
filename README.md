@@ -75,7 +75,7 @@ spark - Apache frame to support flow of Big Data
 
 # Authors
 
-Purva Chaudhari ( Backend Developer )
+Purva Chaudhari (Backend Developer)
 
 Rushikesh Jachak (Backend Developer)
 
