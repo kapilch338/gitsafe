@@ -79,7 +79,7 @@ Purva Chaudhari (Backend Developer)
 
 Rushikesh Jachak (Backend Developer)
 
-Kapil Chandorikar (Android App Developer)
+Kapil Chandorikar (Android Developer)
 
 Prabhleen Bindra
 
@@ -91,8 +91,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 
-Snopes.com(www.snopes.com)
-
-iSOS (Android App for Emergency Services)
-
-Data.gov.in *Pune Municipal Corporation for data insights
+- Snopes.com(www.snopes.com)  
+- iSOS (Android App for Emergency Services)  
+- data.gov.in 
+- Pune Municipal Corporation for data insights  
